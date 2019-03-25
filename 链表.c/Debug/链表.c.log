@@ -1,0 +1,3 @@
+﻿  链表.c
+c:\vs project\链表.c\链表.c(191): warning C4715: “NodeFind”: 不是所有的控件路径都返回值
+  链表.c.vcxproj -> C:\VS PROJECT\链表.c\Debug\链表.c.exe
